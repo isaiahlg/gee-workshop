@@ -1,1 +1,1 @@
-# gee-workshop
+# Google Earth Engine Python Workshop
